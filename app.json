@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "voucher-app-new",
-    "slug": "voucher-app-new",
+    "name": "voucher-app-final",
+    "slug": "voucher-app-final",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -16,7 +16,7 @@
         "foregroundImage": "./assets/images/icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.kym4102.voucherappnew",
+      "package": "com.kym3817.voucherappfinal",
       "permissions": [
         "android.permission.CAMERA",
         "android.permission.RECORD_AUDIO"
@@ -42,7 +42,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "b0b52105-c821-4019-8422-405d2260f24c"
+        "projectId": "872bf314-c17e-41f8-8c21-e088d68f7d05"
       }
     }
   }
