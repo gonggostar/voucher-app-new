@@ -16,11 +16,7 @@
         "foregroundImage": "./assets/images/icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.kym3817.voucherappfinal",
-      "permissions": [
-        "android.permission.CAMERA",
-        "android.permission.RECORD_AUDIO"
-      ]
+      "package": "com.kym3817.voucherappfinal"
     },
     "web": {
       "bundler": "metro",
@@ -38,12 +34,6 @@
     ],
     "experiments": {
       "typedRoutes": true
-    },
-    "extra": {
-      "router": {},
-      "eas": {
-        "projectId": "872bf314-c17e-41f8-8c21-e088d68f7d05"
-      }
     }
   }
 }
